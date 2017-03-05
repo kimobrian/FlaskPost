@@ -1,0 +1,11 @@
+{
+  "name": "Flask Post",
+  "description": "TODO: Add a short description about Flask Post",
+  "keywords": [
+    "small",
+    "sharp",
+    "tool"
+  ],
+  "addons": [],
+  "env": {}
+}
