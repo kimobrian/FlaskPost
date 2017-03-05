@@ -1,10 +1,9 @@
 {
   "name": "Flask Post",
-  "description": "TODO: Add a short description about Flask Post",
+  "description": "Simple Flask Application",
   "keywords": [
-    "small",
-    "sharp",
-    "tool"
+    "flask",
+    "heroku"
   ],
   "addons": [],
   "env": {}
